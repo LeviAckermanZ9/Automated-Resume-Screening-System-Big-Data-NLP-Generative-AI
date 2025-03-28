@@ -1,0 +1,2 @@
+# Automated-Resume-Screening-System-Big-Data-NLP-Generative-AI
+This project automates resume screening using AI, NLP, and Big Data. It scrapes job descriptions, extracts key skills, and matches resumes using a parser. The AI model, deployed on AWS Lambda, enables real-time evaluation, while Tableau visualizations highlight hiring trends. Generative AI further enhances resumes with personalized suggestions.
